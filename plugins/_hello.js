@@ -4,7 +4,7 @@ export async function all(m) {
     (m.mtype === 'hellomessage' ||
       m.text.startsWith('Hello') ||
       m.text.startsWith('Hi') ||
-      m.text.startsWith('anna') ||
+      m.text.startsWith('kamb') ||
       m.text.startsWith('bro') ||
       m.text.startsWith('salut') ||
       m.text.startsWith('hey')) &&
